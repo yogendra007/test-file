@@ -1,3 +1,4 @@
+this is my new learning GitHub class
 hello how are you doing
 #This class is running in La Ciotat france
 #this is github class
